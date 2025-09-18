@@ -63,9 +63,9 @@
 
 ---
 
-<!--### 🥇 BOJ Level
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ak015a01)](https://solved.ac/ak015a01)
--->
+### 🥇 BOJ Level
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cktngus4)](https://solved.ac/cktngus4)
+
 ---
 
 ### ✉️ Contact
