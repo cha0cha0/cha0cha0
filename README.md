@@ -22,27 +22,27 @@
 #### 🧩 Room Escape Reservation System  
 - **Description:** 방탈출 카페 예약/지점/테마 관리 시스템 (Spring Boot + MyBatis + Oracle)  
 - **Features:** 회원 로그인 & 세션, 지점·테마 관리, 예약·후기 등록  
-- **Repo:** [room-escape-final](https://github.com/s-hyunn/room-escape-final)
+- **Repo:** [room-escape-final](https://github.com/cha0cha0/room-escape-final)
 
 #### 🎬 Cinema Project  
 - **Description:** 공연/영화 소개 및 예매 + 리뷰 게시판 (Spring Boot + JSP)  
 - **Features:** 공연 소개, 회원 전용 예매, 상영작 리뷰, 마이페이지  
-- **Repo:** [0513Cinema](https://github.com/s-hyunn/0513Cinema)
+- **Repo:** [0513Cinema](https://github.com/cha0cha0/0513Cinema)
 
 #### 🔐 Login + Session Example  
 - **Description:** Spring Boot 기반 로그인/세션 예제 프로젝트  
 - **Features:** 회원가입, 로그인, 세션 유지, 접근 제어  
-- **Repo:** [securityEx01](https://github.com/s-hyunn/securityEx01)
+- **Repo:** [securityEx01](https://github.com/cha0cha0/securityEx01)
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-hyunn&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cha0cha0&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-hyunn&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cha0cha0&layout=compact&theme=tokyonight" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=s-hyunn&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=cha0cha0&theme=tokyonight" />
 </p>
 
 ---
