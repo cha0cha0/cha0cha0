@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:1E3C72,100:2A5298&height=200&section=header&text=Hi%20👋%20I'm%20Suhyun&fontSize=40&fontColor=ffffff&animation=twinkling)
 
 <p align="center">
-  💻 Backend & Mobile Developer — <strong>Java/Spring Boot</strong> · <strong>Flutter/Dart</strong> <br/>
+     I'm App📱 & Back-End 🖥 Developer.
   🌱 Building reliable web services & delightful mobile apps <br/>
   ✨ Always learning, always improving!
 </p>
