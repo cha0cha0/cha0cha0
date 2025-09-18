@@ -19,9 +19,9 @@
 ### ⭐ Featured Projects
 <!-- STARRED:START -->
 - **[cha0cha0/bnk-project-1-2](https://github.com/cha0cha0/bnk-project-1-2)**  ![stars](https://img.shields.io/badge/★-1-brightgreen) ![lang](https://img.shields.io/badge/lang---blue)  
-  Open AI를 활용한 은행상품 판매를 위한 판매사이트 구축 프로젝트 입니다.
+  Open AI를 활용하여 은행상품 판매를 위한 웹 및 앱 구축 프로젝트 입니다.
 - **[cha0cha0/room-escape-BNKmini](https://github.com/cha0cha0/room-escape-BNKmini)**  ![stars](https://img.shields.io/badge/★-1-brightgreen) ![lang](https://img.shields.io/badge/lang---blue)  
-  Room Escape는 사용자 친화적인 방탈출 카페 예약 통합 플랫폼입니다. <br> 다양한 테마의 방탈출 카페를 쉽게 검색하고 빠르게 예약할 수 있도록 설계되었습니다.
+  Room Escape는 사용자 친화적인 방탈출 카페 예약 통합 플랫폼입니다. 다양한 테마의 방탈출 카페를 쉽게 검색하고 빠르게 예약할 수 있도록 설계되었습니다.
 <!-- STARRED:END -->
 
 ---
