@@ -17,7 +17,7 @@
 
 ### 🛠 Tech Stack (Auto)
 <!-- STACK:START -->
-<!-- 자동 생성 영역: 내 레포 언어 집계 배지들 -->
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge) ![CMake](https://img.shields.io/badge/CMake-555555?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge)
 <!-- STACK:END -->
 
 ---
@@ -42,7 +42,12 @@
 
 ### ⭐ Recently Starred (Auto)
 <!-- STARRED:START -->
-<!-- 자동 생성 영역: 최근 Star한 레포 목록 -->
+- **[cha0cha0/bnk-project-1-2](https://github.com/cha0cha0/bnk-project-1-2)**  ![stars](https://img.shields.io/badge/★-1-brightgreen) ![lang](https://img.shields.io/badge/lang---blue)  
+  Open AI를 활용한 은행상품 판매를 위한 판매사이트 구축 프로젝트 입니다.
+- **[cha0cha0/room-escape-BNKmini](https://github.com/cha0cha0/room-escape-BNKmini)**  ![stars](https://img.shields.io/badge/★-1-brightgreen) ![lang](https://img.shields.io/badge/lang---blue)  
+  _No description_
+- **[cha0cha0/cha0cha0](https://github.com/cha0cha0/cha0cha0)**  ![stars](https://img.shields.io/badge/★-1-brightgreen) ![lang](https://img.shields.io/badge/lang---blue)  
+  _No description_
 <!-- STARRED:END -->
 
 ---
