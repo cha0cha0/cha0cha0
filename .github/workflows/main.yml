@@ -1,0 +1,37 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+    inputs:
+      commit_message:
+        description: 'Commit message'
+        required: true
+        default: 'generated'
+        type: string
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+        name: Checkout code
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        name: Generate 3D contributions
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Set up Git
+        run: |
+          git config user.name "cha0cha0"
+          git config user.email "cktngus4@naver.com"
+      - name: Pull remote changes with rebase
+        run: |
+          git pull origin main --rebase || true
+      - name: Commit & Push
+        run: |
+          git add -A .
+          git commit -m "${{ github.event.inputs.commit_message }}" || echo "No changes to commit"
+          git push origin main
