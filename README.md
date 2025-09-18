@@ -15,32 +15,14 @@
 
 ---
 
-### 🛠 Tech Stack (Auto)
+### 🛠 Tech Stack 
 <!-- STACK:START -->
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge) ![CMake](https://img.shields.io/badge/CMake-555555?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge)
 <!-- STACK:END -->
 
 ---
 
-### 📌 Featured Projects
-#### 🧩 Room Escape Reservation System
-- **Desc:** 방탈출 카페 예약/지점/테마 관리 시스템 (Spring Boot + MyBatis + Oracle)
-- **Key:** 회원 로그인·세션, 지점·테마 CRUD, 예약·후기
-- **Repo:** [room-escape-final](https://github.com/cha0cha0/room-escape-final)
-
-#### 🎬 Cinema Project
-- **Desc:** 공연/영화 소개 및 예매 + 리뷰 게시판 (Spring Boot + JSP)
-- **Key:** 공연 소개, 회원 전용 예매, 상영작 리뷰, 마이페이지
-- **Repo:** [0513Cinema](https://github.com/cha0cha0/0513Cinema)
-
-#### 🔐 Login + Session Example
-- **Desc:** 로그인/세션 예제 (Spring Boot)
-- **Key:** 회원가입, 로그인, 세션 유지, 접근 제어
-- **Repo:** [securityEx01](https://github.com/cha0cha0/securityEx01)
-
----
-
-### ⭐ Recently Starred (Auto)
+### ⭐ Featured Projects
 <!-- STARRED:START -->
 - **[cha0cha0/bnk-project-1-2](https://github.com/cha0cha0/bnk-project-1-2)**  ![stars](https://img.shields.io/badge/★-1-brightgreen) ![lang](https://img.shields.io/badge/lang---blue)  
   Open AI를 활용한 은행상품 판매를 위한 판매사이트 구축 프로젝트 입니다.
