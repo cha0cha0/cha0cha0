@@ -9,12 +9,6 @@
 
 ---
 
-### 🧭 About
-- Focus: **Java/Spring Boot 백엔드**, **Oracle/MySQL**, **JPA & MyBatis**, **JSP/Thymeleaf**
-- 관심사: SSE 알림, JWT 리프레시, 대시보드/예약 시스템
-
----
-
 ### 🛠 Tech Stack 
 <!-- STACK:START -->
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge) ![CMake](https://img.shields.io/badge/CMake-555555?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge)
