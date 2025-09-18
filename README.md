@@ -48,9 +48,15 @@
 ---
 
 ### 🧊 3D Contributions
-<!-- 액션이 생성하는 SVG 경로. 테마는 night-rainbow/green/black 등으로 바꿀 수 있음 -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="820" />
+  <picture>
+    <!-- 다크 모드: GitBlock -->
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+    <!-- 라이트 모드: Green -->
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+    <!-- 기본 폴백(라이트 가정) -->
+    <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph — GitBlock/Green" width="820" />
+  </picture>
 </p>
 ---
 
