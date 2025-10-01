@@ -55,10 +55,6 @@
   </picture>
 </p>
 
----
-
-### 🥇 BOJ Level
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cktngus4)](https://solved.ac/cktngus4)
 
 ---
 
